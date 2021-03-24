@@ -1,3 +1,2 @@
 # hello-world
-Begins!
-A noob..
+This is my first experimental repository.
